@@ -6,3 +6,6 @@
  Download yolov3.weights from internet and paste in yolo-coco folder
  
  Finally run social_distancing_detectore.py and see the output
+ 
+ 
+![image](https://user-images.githubusercontent.com/42908640/131247618-6fe4eedb-b529-4359-b67d-dd1f185fab06.png)
