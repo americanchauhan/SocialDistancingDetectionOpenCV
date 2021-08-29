@@ -2,7 +2,7 @@
  Social Distancing Detection using OpenCV
  
  Note: To use this project in your system
- First create an virutal environment and install all requuired libraries from Requirements.txt
+ First create an virutal environment and install all required libraries from Requirements.txt
  
  Download yolov3.weights file from internet and paste in yolo-coco folder
  
